@@ -15,7 +15,7 @@ The larger p2_unsupervised set consists of 2169 rows and 45,768 columns which wa
   - p2_evualation: The folder contains a labeled training and test set. 
   - p2_unsupervised_reduced and p2_evaluation_reduced: These folders contain datasets with a reduced number of genes.
  
-Unfortunately the datasets are too large to be downloaded to GitHub, as even the reduced set is over 300MB. However, some similar datasets can be found from the Allen Institute (https://portal.brain-map.org/atlases-and-data/rnaseq). 
+Unfortunately the datasets are too large to be downloaded to GitHub, as even the reduced set is over 300MB. However, some similar (but smaller) datasets can be found from the Allen Institute (https://portal.brain-map.org/atlases-and-data/rnaseq). 
 
 The statistical application of methods and code for the project is made with Jupyter Notebook and the written report is a pdf-file.
   
