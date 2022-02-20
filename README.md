@@ -12,5 +12,8 @@ that consists of 511 rows and 45,768 columns.
   by scientists using domain knowledge and statistical testing.
   - p2_unsupervised: The folder contains only a count matrix.
   - p2_evualation: The folder contains a labeled training and test set. 
-  - -p2_unsupervised_reduced and p2_evaluation_reduced: These folders contain datasets with a reduced number of genes.
+  - p2_unsupervised_reduced and p2_evaluation_reduced: These folders contain datasets with a reduced number of genes.
+ 
+ Unfortunately the datasets are way too large to be downloaded to GitHub, as even the reduced set is over 300MB. However, the results of the analysis are on
+ the Jupyter Notebook and written report on the pdf-file.
   
