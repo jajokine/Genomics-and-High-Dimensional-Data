@@ -4,7 +4,7 @@ MITx - MicroMasters Program on Statistics and Data Science - Data Analysis: Stat
 The second project of the MIT MicroMasters Program course on Data Analysis analyzed a single-cell RNA-seq dataset, with the goal of unveiling
 hierarchical structure and discovering important genes. To be more precise, the challenge was to find ways to extract meaningful information from a high-dimensional dataset compiled by the Allen Institute that contains cells from the mouse neocortex, a region in the brain which governs higher-level functions such as perception and cognition.
 
-The larger p2_unsupervised set consists of 2,169 rows, depecting cells, and 45,768 columns, depecting genes, which was to be analyzed with different visualization and unsupervised learning techniques with the help of the smaller datasets p1, p2_evaluation and the reduced versions of p2. The statistical application of methods and code for the project is made with Jupyter Notebook and the written report is a pdf-file.
+The larger p2_unsupervised set consists of 2,169 rows, depecting cells, and 45,768 columns, depecting genes, which was to be analyzed with different dimensionality reduction and data visualization techniques such as Principal Components Analysis (PCA), Multidimensional Scaling (MDS), and t-Distributed Stochastic Neighbor Embedding (t-SNE), together with some unsupervised learning techniques for clustering data, such as Hierarchical Clustering and K-Means Clustering. Additional smaller datasets p1, p2_evaluation and the reduced versions of p2 were also provided to help with the analysis. The statistical application of the different methods and the code for the project is made with Jupyter Notebook and the written report can be read from project pdf-file.
 
 
 **DATASET**
