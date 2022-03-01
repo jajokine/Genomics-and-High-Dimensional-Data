@@ -18,5 +18,11 @@ The data was first analyzed with different dimensionality reduction and data vis
   - p2_evualation: The folder contains a labeled training (1077 by 45768 matrix for X and 1077 by 1 matrix for y) and test set (1108 by 45768 matrix for X and 1108 by 1 matrix for y). 
   - p2_unsupervised_reduced and p2_evaluation_reduced: These folders contain datasets with a reduced number of genes (2169 by 20000 training matrix for X and 2169 by 1 training matrix for y, 1077 by 20000 training evaluation matrix for X and 1077 by 1 training evaluation matrix for y, and 1108 by 20000 testing evaluation matrix for X and 1108 by 1 testing evaluation matrix for y).
  
+## Access and Requirements
 
+The file project2.ipynb is the Jupyter Notebook that contains all the code, visualizations and analysis of the project.
+
+The dependencies and requirements can be seen from requirements.txt that can be installed in shell with the command:
+
+      pip install -r requirements.txt
   
