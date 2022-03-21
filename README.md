@@ -20,7 +20,7 @@ The data was first analyzed with different dimensionality reduction and data vis
  
 ## Access and Requirements
 
-The file project2.ipynb is the Jupyter Notebook that contains all the code, visualizations and analysis of the project.
+The file [project2.ipynb](https://github.com/jajokine/Genomics-and-High-Dimensional-Data/blob/main/project2.ipynb) is the Jupyter Notebook that contains all the code, visualizations and analysis of the project.
 
 The dependencies and requirements can be seen from requirements.txt that can be installed in shell with the command:
 
